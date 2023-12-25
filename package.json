@@ -16,6 +16,7 @@
     "author": "Sawankumar Pal <sawankumarpal710@gmail.com>",
     "license": "ISC",
     "dependencies": {
+        "dotenv": "^16.3.1",
         "typescript": "^5.3.3"
     },
     "devDependencies": {
